@@ -1,0 +1,8 @@
+python fastapi- to connect two different database
+uvicorn[standard]
+SQLAlchemy: 1.4.52 - to make MySQL work easier
+pymysql
+pymongo - to connect python and mongodb
+python-dotenv
+pydantic
+python-multipart
